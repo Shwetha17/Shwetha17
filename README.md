@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Analytics
 - 👯 I’m looking to collaborate on ..
 - 🤔 I’m looking for help with Data Analysis Projects 
-- 💬 Ask me about 
+- 💬 Ask me about my previous projects.
 - 📫 How to reach me: Email
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
