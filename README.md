@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on developing new skills
+- 🔭 I’m currently working on developing new skills like Data Analysis , Cloud Fundamentals, Chatbots.
 - 🌱 I’m currently learning Data Analytics,Cloud-Computing Basics 
 - 👯 I’m looking to collaborate on ..
 - 🤔 I’m looking for help with Data Analysis Projects 
 - 💬 Ask me about my previous projects.
 - 📫 How to reach me: Email
-- 😄 Pronouns: ...
+- 😄 Pronouns: She/her
 - ⚡ Fun fact: ...
 -->
